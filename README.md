@@ -4,10 +4,10 @@ lambda is javascript - A Calculus to JavaScript compiler
 # Implementation-Specific Syntax Rules
 * Identifiers can be formed with any character but
   `.`,
-  `\\`,
+  `\`,
   `λ`,
   `(` and `)`
-* `\\` is a synonym for `λ`
+* `\` is a synonym for `λ`
 
 # Import
 
