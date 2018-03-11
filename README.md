@@ -6,7 +6,7 @@ lambda is javascript - A Calculus to JavaScript compiler
   `.`,
   `\`,
   `λ`,
-  `(` and `)`
+  `(`, `)`, and whitespace
 * `\` is a synonym for `λ`
 
 # Import
