@@ -18,7 +18,7 @@ lambda is javascript - A Calculus to JavaScript compiler
 ```
 
 ## In Node
-```javscript
+```javascript
 const lij = require("./lij")
 ```
 
